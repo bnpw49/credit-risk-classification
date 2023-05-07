@@ -1,5 +1,5 @@
 # credit-risk-classification
-![alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.marketrealist.com%2Fbrand-img%2F3s7UQMyYo%2F0x0%2Fuploads%2F2019%2F10%2Fbank-credit-risk.jpg&tbnid=_t2MwWv10CfIzM&vet=12ahUKEwjggKi9jOT-AhXxPUQIHTGyCsQQMygMegUIARCEAg..i&imgrefurl=https%3A%2F%2Fmarketrealist.com%2F2019%2F10%2Fmust-know-credit-and-liquidity-risks-in-banking%2F&docid=V0b2CzZsW9nN-M&w=840&h=600&q=credit%20risk&ved=2ahUKEwjggKi9jOT-AhXxPUQIHTGyCsQQMygMegUIARCEAg)
+![alt text](https://www.commercialriskonline.com/wp-content/uploads/2022/05/Credit-risk_shutterstock_1832810149.jpg)
 
 ## Instructions
 The instructions for this Challenge are divided into the following subsections:
